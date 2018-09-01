@@ -47,11 +47,11 @@ I even managed to find some cool Cheet-Sheets along the way and clubbed them all
 
 ## Day 1: September 1, 2018
 
-**Progress:**
+**Progress:** Started Learning about various types of linear regression model and completed the student admission excercise of my deep learning nanodegree. 
 
-**Thoughts:**
+**Thoughts:** Need to learn a lot, started working on titanic dataset, hopefully will complete it by tomorrow.
 
-**Link to work:** [link](##100DaysOfMLCode)
+**Link to work:** [link](https://github.com/engrravijain/Deep_Learning_Nanodegree/tree/master/student-admissions)
 
 ## Day 2: September 2, 2018
 
