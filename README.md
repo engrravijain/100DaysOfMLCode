@@ -55,11 +55,9 @@ I even managed to find some cool Cheet-Sheets along the way and clubbed them all
 
 ## Day 2: September 2, 2018
 
-**Progress:**
+**Progress:** Made Submission of Titanic model at kaggle.
 
-**Thoughts:**
-
-**Link to work:** [link](##100DaysOfMLCode)
+**Link to work:** [link](https://www.kaggle.com/engrravijain/titanic-machine-learning-from-disaster)
 
 ## Day 3: September 3, 2018
 
