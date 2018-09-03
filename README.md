@@ -61,9 +61,7 @@ I even managed to find some cool Cheet-Sheets along the way and clubbed them all
 
 ## Day 3: September 3, 2018
 
-**Progress:**
-
-**Thoughts:**
+**Progress:** Completed Week 3 Lectures and Assignment, also completed week 4 video lectures of [this course](https://onlinecourses.nptel.ac.in/noc18_cs51/course)
 
 **Link to work:** [link](##100DaysOfMLCode)
 
